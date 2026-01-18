@@ -1,0 +1,4 @@
+googlesearch-python    # Per effettuare le ricerche su Google
+pandas                 # Per gestire i dati in tabelle
+openpyxl               # Per scrivere file Excel (.xlsx)
+streamlit              # Per creare la tua interfaccia web velocemente

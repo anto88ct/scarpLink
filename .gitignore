@@ -1,0 +1,22 @@
+# --- Python Standard ---
+__pycache__/
+*.pyc
+
+# --- Ambiente Virtuale ---
+venv/
+env/
+
+# --- IDE (Configurazioni dell'editor) ---
+.idea/
+.vscode/
+
+# --- File Sensibili (IMPORTANTISSIMO) ---
+.env
+
+# --- Cartelle specifiche del tuo progetto ---
+# Dati del browser (pesanti e contengono cookie/sessioni)
+chrome_data/
+
+# Cartella degli output (i risultati dello script non vanno su git)
+exports/
+
